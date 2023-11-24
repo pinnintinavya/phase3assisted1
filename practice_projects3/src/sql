@@ -1,0 +1,4 @@
+create database db6;
+use db6;
+
+create table student(sid int primary key,sname varchar(20),semail varchar(20));
